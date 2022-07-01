@@ -1,0 +1,54 @@
+html {
+    overflow: scroll;
+    overflow-x: hidden;
+    margin: 0 4px 0 2px;
+}
+::-webkit-scrollbar {
+    width: 0;  /* Remove scrollbar space */
+    background: #84a59d;  /* Optional: just make scrollbar invisible */
+}
+
+body{
+    background-color: #f7ede2;
+}
+
+.main{
+    margin-bottom:-200px;
+}
+
+.feed-title{
+    margin: 10px 0 0 0;
+    font-style:normal;
+    font-size: x-large;
+    font-family: "Roboto", sans-serif;
+    margin-bottom: -10px;
+}
+
+.video-title{
+    margin-left: 10px;
+    font-style:normal;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer{
+    background-color: #f5cac3;
+    margin-top: 500px;
+}
+.footer-links{
+    padding-top: 1px;
+}
+
+.mainvid{
+    border: #000;
+}
+
+#videoTitle{
+    background-color: #faf9f9;
+    border: none;
+    text-decoration: none;
+    color: #000;
+    padding: 20px 20px;
+    cursor: auto;
+}
+
