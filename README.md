@@ -26,6 +26,5 @@ Next we will be merging the app with backend and will be hosting the website soo
 
 - Karan Pargal (https://github.com/karanpargal)
 - Mohammed Farhan (https://github.com/farhan121212)
-- Pratham Bhatnagar (https://github.com/pratham-bhatnagar)
 - Yashaswini Singh Shaktawat (https://github.com/Yashaswini-Singh02)
 
